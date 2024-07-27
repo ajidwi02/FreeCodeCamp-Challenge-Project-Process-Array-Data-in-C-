@@ -1,0 +1,14 @@
+D:\Belajar\Pemograman\C#\bin\Debug\net8.0\C#.exe
+D:\Belajar\Pemograman\C#\bin\Debug\net8.0\C#.deps.json
+D:\Belajar\Pemograman\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+D:\Belajar\Pemograman\C#\bin\Debug\net8.0\C#.dll
+D:\Belajar\Pemograman\C#\bin\Debug\net8.0\C#.pdb
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.dll
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\refint\C#.dll
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.pdb
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+D:\Belajar\Pemograman\C#\obj\Debug\net8.0\ref\C#.dll
