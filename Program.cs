@@ -11,6 +11,9 @@ public class Program
     // coinFlip.main(args);
     // Challenge.main(args);
     // varScope.main(args);
-    fizzbuzz.main(args);
+    // fizzbuzz.main(args);
+    // doWhile.main(args);
+    // challengeDoWhile.main(args);
+    dogCat.main(args);
   }
 }
